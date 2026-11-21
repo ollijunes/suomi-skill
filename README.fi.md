@@ -22,6 +22,8 @@ Repossa on kaksi osaa. Ne toimivat yksin ja yhdessä.
   listaa osumat rivinumeroineen ja antaa tiedostolle pisteet nollasta
   kymmeneen. Sen voi ajaa terminaalissa, commit-hookissa tai CI:ssä.
 
+Tausta ja syntytarina: [suomeksi](https://ollijunes.com/fi/suomi-skill-luontevaa-suomea-koodausagentilta/) · [in English](https://ollijunes.com/suomi-skill-making-coding-agents-write-natural-finnish/).
+
 ## Kenelle
 
 Sinulle, jos annat agentin kirjoittaa tai muokata suomenkielistä tekstiä:

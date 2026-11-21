@@ -31,6 +31,8 @@ This repository has two parts that work alone or together:
 [Security](SECURITY.md) · [Contributing](CONTRIBUTING.md) ·
 [ollijunes.com](https://ollijunes.com)
 
+Read the story behind it: [in English](https://ollijunes.com/suomi-skill-making-coding-agents-write-natural-finnish/) · [suomeksi](https://ollijunes.com/fi/suomi-skill-luontevaa-suomea-koodausagentilta/).
+
 ## Who it is for
 
 People who let an agent write or edit Finnish: website copy, blog posts,
